@@ -1,4 +1,43 @@
+.contacto{
+    margin-right: 15px;
+    text-decoration: none;
+    color: white;
+    font-style: system-ui;
+    font-size: 15px;
+}
+
+.contacto:hover{
+    color: white;
+}
+
+.container{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+#row-1{
+    margin-bottom: 20px;
+}
+
 img {
-    height: 286px;
-    width: 286px;
+    height: 150px;
+    width: 150px;
+}
+
+.card-text{
+    text-align: justify;
+    height: 100px;
+}
+
+.card{
+    height: 456px;
+}
+
+footer{
+    background-color: black;
+}
+
+footer p{
+    color: white;
+    margin-bottom: 0px;
 }

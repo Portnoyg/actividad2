@@ -1,0 +1,55 @@
+.contacto{
+    margin-right: 15px;
+    text-decoration: none;
+    color: white;
+    font-style: system-ui;
+    font-size: 15px;
+}
+
+.contacto:hover{
+    color: white;
+}
+
+#container{
+    margin-top: 25px;
+    margin-left: 0px;
+    margin-bottom: 200px;
+}
+
+#nombre{
+    margin-left: 5px;
+    border-color: black;
+}
+
+#apellido{
+    margin-left: 5px;
+}
+
+#email{
+    margin-left: 5px;
+}
+
+#sexo{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#condiciones{
+    margin-left: 5px;
+}
+
+#submit{
+    margin-left: 5px;
+}
+
+footer{
+    background-color: black;
+    position:relative;
+    float:bottom;
+}
+
+footer p{
+    color: white;
+    margin-bottom: 0px;
+}
+
